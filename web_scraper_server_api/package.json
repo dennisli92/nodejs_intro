@@ -1,0 +1,10 @@
+{
+  "name"         : "webscraper",
+  "version"      : "0.0.2",
+  "main"         : "app.js",
+  "dependencies" : {
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "express"    : "latest"
+  }
+}
