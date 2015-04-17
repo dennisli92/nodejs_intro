@@ -1,0 +1,9 @@
+{
+  "name"         : "webscraper",
+  "version"      : "0.0.1",
+  "main"         : "app.js",
+  "dependencies" : {
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
